@@ -26,4 +26,4 @@
 ## Interesting additions
 - `sh_google()` method : This method will help you search google with whatever query you provide next to it. ***Usage*** : Simple `google` will open Google on your browser, and `google strings` will search strings on the same. You can also search for strings with multiple words separated by spaces.
 - `sh_yahoo` method : similarly as `sh_google` method,`yahoo string` will search string on yahoo.
-
+For example: myshell> google will open google and writing "google black wallpaper" will open black wallpaper.
